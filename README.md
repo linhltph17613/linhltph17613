@@ -1,10 +1,9 @@
-### Hi there 👋
-
-<!--
-**linhltph17613/linhltph17613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+# 💫About Me :
 - 👋 Hi, I’m Linh
 - 🌱 I’m currently learning Website Design
--->
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=linhltph17613&icon=0&color=0)](https://visitcount.itsvg.in)
